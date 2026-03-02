@@ -12,7 +12,7 @@
 - 💻 Focado em aprender e criar soluções inovadoras utilizando diversas tecnologias.
 - 🌱 Buscando evoluir e colocar em prática o conhecimento adquirido durante o curso.
 - 🚀 Quero me aprofundar em  **desenvolvimento web** e **tecnologias multiplataforma**.
-- <img src="https://78.media.tumblr.com/1be00a24aa31832b46a7633ae4e3a46a/tumblr_n320f2gHjd1sxws2ko1_500.gif" alt="Happy Agumon" width="200"/>
+  
 
 ---
 
@@ -41,5 +41,6 @@
 - 📫 **Contato:** [vinicius.souzacamargocosta@gmail.com](mailto:vinicius.souzacamargocosta@gmail.com) 
 
 ---
+<img src="https://78.media.tumblr.com/1be00a24aa31832b46a7633ae4e3a46a/tumblr_n320f2gHjd1sxws2ko1_500.gif" alt="Happy Agumon" width="200"/>
 
 
