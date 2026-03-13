@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎓 **Estudante do 3º semestre** de **Desenvolvimento de Software Multiplataforma** na **FATEC Registro**.
+- 🎓 **Estudante do 4º semestre** de **Desenvolvimento de Software Multiplataforma** na **FATEC Registro**.
 - 💻 Focado em aprender e criar soluções inovadoras utilizando diversas tecnologias.
 - 🌱 Buscando evoluir e colocar em prática o conhecimento adquirido durante o curso.
 - 🚀 Quero me aprofundar em  **desenvolvimento web** e **tecnologias multiplataforma**.
